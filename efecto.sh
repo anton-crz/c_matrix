@@ -1,7 +1,7 @@
 #! /bin/bash
    
 sleep 3
-toilet -f big '  MATRIX' -F gay | lolcat
+toilet -f big '  An-MATRIX' -F gay | lolcat
 echo "               "[███ 10%]
 sleep 2
 echo "               "[███████ 30%]
@@ -14,6 +14,8 @@ echo "               "[██████████████████ 90
 sleep 2
 echo "               "[██████████████████████ 100%]
 sleep 2
+echo " "
+echo " "
 echo "conectando con el servidor......"
 sleep 5
 echo ""
@@ -22,4 +24,5 @@ pkg install cmatrix
 echo " "
 echo " "
 echo "instalado coreectamente"
+sleep 3
 cmatrix
