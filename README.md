@@ -18,4 +18,4 @@ ls
 
 bash efecto.sh
 
-Para detener el proceso es con Ctrl + z
+Para detener el proceso es con Ctrl+z
