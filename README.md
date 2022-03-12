@@ -13,6 +13,7 @@ git clone https://github.com/anton-crz/c_matrix.git
 cd c_matrix
 
 ls
+
 chmod +x efecto.sh
 
 ls
