@@ -22,4 +22,5 @@ bash install.sh
 
 bash efecto.sh
 
-Para detener el proceso es con Ctrl+z o ctrl+c
+Para detener el proceso es con Ctrl+z
+ o ctrl+c
