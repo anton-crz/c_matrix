@@ -14,10 +14,12 @@ cd c_matrix
 
 ls
 
-chmod +x efecto.sh
+chmod +x *
 
 ls
 
+bash install.sh
+
 bash efecto.sh
 
-Para detener el proceso es con Ctrl+z
+Para detener el proceso es con Ctrl+z o ctrl+c
